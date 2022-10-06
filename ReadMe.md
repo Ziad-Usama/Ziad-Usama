@@ -10,6 +10,7 @@ I've been learning coding for 5 years now. I am an ethical hacker, bug bounty hu
 *   ✉️  You can contact me at [ziadalswah@gmail.com](mailto:ziadalswah@gmail.com)
 *   🧠  I'm learning Flutter
 *   🧠  I'm Learning FireBase
+-----------------------------------
 <a href="https://www.twitter.com/ZiadUsa82588588" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/ZiadUsa82588588?logo=twitter&style=for-the-badge&color=3382ed&labelColor=181824"
                 /></a><a href="https://www.github.com/Ziad-Usama" target="_blank" rel="noreferrer"><img
